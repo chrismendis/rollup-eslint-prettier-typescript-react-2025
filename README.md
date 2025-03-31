@@ -1,0 +1,1 @@
+# rollup-eslint-prettier-typescript-react-2025
