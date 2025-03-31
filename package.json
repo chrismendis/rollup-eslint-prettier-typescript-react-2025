@@ -8,6 +8,7 @@
     "dist"
   ],
   "scripts": {
+    "prepare": "npm run build",
     "dev": "rollup -c --watch",
     "build": "rollup -c",
     "eslint-fix": "npx eslint ./src --fix",
